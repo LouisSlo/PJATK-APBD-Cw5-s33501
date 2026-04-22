@@ -1,4 +1,4 @@
-# Training Center API 🏢
+# Training Center API 
 
 Proste REST API stworzone w ASP.NET Core do zarządzania salami dydaktycznymi i ich rezerwacjami. Projekt jest wynikiem ćwiczeń akademickich – korzysta z danych przechowywanych w pamięci (in-memory), bez podłączenia do zewnętrznej bazy danych SQL.
 
